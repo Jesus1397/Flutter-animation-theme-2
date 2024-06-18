@@ -38,6 +38,7 @@ dependencies:
   provider:
   flutter_switch:
   font_awesome_flutter: 
+  animated_toggle_switch: ^0.8.2
 
 
 dev_dependencies:
